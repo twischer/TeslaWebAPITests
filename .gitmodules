@@ -1,0 +1,3 @@
+[submodule "webhid-demos"]
+	path = webhid-demos
+	url = git@github.com:twischer/webhid-demos.git
